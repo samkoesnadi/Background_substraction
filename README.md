@@ -7,7 +7,7 @@ background_substraction.py is the main run-time process
 ```
 
 List to do:
-- [x] read_pixel.py
-- [x] first background_substraction algo
+- [x] read_pixel.py. Model building
+- [x] first background_substraction algo. Prediction stage
 - [ ] second algo
 - [ ] third algo
